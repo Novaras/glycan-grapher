@@ -1,0 +1,19 @@
+{
+  "name": "glycan-grapher",
+  "version": "0.0.1",
+  "description": "Turn strings encoding glycan chains into clean graphs.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novaras/glycan-grapher.git"
+  },
+  "author": "Novaras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novaras/glycan-grapher/issues"
+  },
+  "homepage": "https://github.com/Novaras/glycan-grapher#readme"
+}
